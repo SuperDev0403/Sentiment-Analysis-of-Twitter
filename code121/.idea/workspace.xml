@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4fe4bbe-c151-479b-bd1f-1fc38a4ce731" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tt1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_sentiment_analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sentiment-Analysis-of-Twitter/Classification_live_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sentiment-Analysis-of-Twitter/Classification_Live_Data_runscript.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/python_sentiment_analysis.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="34090262-560c-4b78-8462-3c4903d060f2" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="64" />
+    <option name="y" value="151" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1Unmc9Xui3VouY43PVvT72rcP3V" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code121" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code121" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code121" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code121" type="462c0819:PsiDirectoryNode" />
+              <item name="Sentiment-Analysis-of-Twitter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Application">
+    <configuration name="Application" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code121" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sentiment-Analysis-of-Twitter/Hashtags" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sentiment-Analysis-of-Twitter/Hashtags/Application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_sentiment_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code121" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_sentiment_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code121" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tt1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code121" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tt2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code121" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tt5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Application" />
+        <item itemvalue="Python.tt5" />
+        <item itemvalue="Python.tt2" />
+        <item itemvalue="Python.tt1" />
+        <item itemvalue="Python.python_sentiment_analysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4fe4bbe-c151-479b-bd1f-1fc38a4ce731" name="Default Changelist" comment="" />
+      <created>1576000809881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576000809881</updated>
+      <workItem from="1576000813199" duration="750000" />
+      <workItem from="1576001620211" duration="386000" />
+      <workItem from="1576002226354" duration="1796000" />
+      <workItem from="1576004134946" duration="11305000" />
+      <workItem from="1576021298693" duration="1433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="254" key="GridCell.Tab.0.bottom" timestamp="1576026343370">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1576020072564" />
+    <state width="1358" height="254" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1576021283371" />
+    <state width="1358" height="254" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1576026343370" />
+    <state width="1358" height="254" key="GridCell.Tab.0.center" timestamp="1576026343370">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1576020072562" />
+    <state width="1358" height="254" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1576021283370" />
+    <state width="1358" height="254" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1576026343370" />
+    <state width="1358" height="254" key="GridCell.Tab.0.left" timestamp="1576026343370">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1576020072562" />
+    <state width="1358" height="254" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1576021283370" />
+    <state width="1358" height="254" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1576026343370" />
+    <state width="1358" height="254" key="GridCell.Tab.0.right" timestamp="1576026343370">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1576020072563" />
+    <state width="1358" height="254" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1576021283371" />
+    <state width="1358" height="254" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1576026343370" />
+    <state width="1358" height="254" key="GridCell.Tab.1.bottom" timestamp="1576021283373">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1576020072458" />
+    <state width="1358" height="254" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1576021283373" />
+    <state width="679" height="254" key="GridCell.Tab.1.bottom/0.23.1440.838@0.23.1440.838" timestamp="1576010185718" />
+    <state width="1358" height="254" key="GridCell.Tab.1.center" timestamp="1576021283372">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1576020072457" />
+    <state width="1358" height="254" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1576021283372" />
+    <state width="679" height="254" key="GridCell.Tab.1.center/0.23.1440.838@0.23.1440.838" timestamp="1576010185718" />
+    <state width="1358" height="254" key="GridCell.Tab.1.left" timestamp="1576021283372">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1576020072456" />
+    <state width="1358" height="254" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1576021283372" />
+    <state width="679" height="254" key="GridCell.Tab.1.left/0.23.1440.838@0.23.1440.838" timestamp="1576010185718" />
+    <state width="1358" height="254" key="GridCell.Tab.1.right" timestamp="1576021283372">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1576020072458" />
+    <state width="1358" height="254" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1576021283372" />
+    <state width="679" height="254" key="GridCell.Tab.1.right/0.23.1440.838@0.23.1440.838" timestamp="1576010185718" />
+    <state x="229" y="81" key="SettingsEditor" timestamp="1576003608293">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="229" y="81" key="SettingsEditor/0.23.1440.838@0.23.1440.838" timestamp="1576003608293" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code121$Classification_Training.coverage" NAME="Classification_Training Coverage Results" MODIFIED="1576007576935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sentiment-Analysis-of-Twitter" />
+    <SUITE FILE_PATH="coverage/code121$Twitter_Client.coverage" NAME="Twitter_Client Coverage Results" MODIFIED="1576004616076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sentiment-Analysis-of-Twitter" />
+    <SUITE FILE_PATH="coverage/code121$tt6.coverage" NAME="tt6 Coverage Results" MODIFIED="1576006921294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code121$Classification_live_data.coverage" NAME="Classification_live_data Coverage Results" MODIFIED="1576006970773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sentiment-Analysis-of-Twitter" />
+    <SUITE FILE_PATH="coverage/code121$tt4.coverage" NAME="tt4 Coverage Results" MODIFIED="1576006193619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code121$python_sentiment_analysis.coverage" NAME="python_sentiment_analysis Coverage Results" MODIFIED="1576019745918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code121$tt2.coverage" NAME="tt2 Coverage Results" MODIFIED="1576020057507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code121$tt5.coverage" NAME="tt5 Coverage Results" MODIFIED="1576020072420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code121$tt3.coverage" NAME="tt3 Coverage Results" MODIFIED="1576006163823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code121$tt1.coverage" NAME="tt1 Coverage Results" MODIFIED="1576019975573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code121$Application.coverage" NAME="Application Coverage Results" MODIFIED="1576026343053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sentiment-Analysis-of-Twitter/Hashtags" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tt1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_sentiment_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sentiment-Analysis-of-Twitter/Classification_live_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sentiment-Analysis-of-Twitter/Classification_Live_Data_runscript.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

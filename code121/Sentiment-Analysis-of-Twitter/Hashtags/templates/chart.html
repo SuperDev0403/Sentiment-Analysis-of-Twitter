@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+        <head>
+        <meta charset="utf-8"/>
+        <title>Live Graph</title>
+        <script src='static/Chart.js'></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+        </head>
+        <body>
+                <h2><center>Live Graph of Twitter Sentiment Analysis</center></h2>
+                <center><div style="width:1000px;height:900px">
+                <canvas id="chart"></canvas>
+                </div>
+                </center>
+                <script>
+   var chart_element = document.getElementById("chart");
+
+
+
+   var mydata = new Chart(chart_element, {
+        type: 'bar',
+        data: {
+                labels: {{analysisdata_array | tojson}},
+                datasets: [{
+                        label: 'Sentiment Values VS Number of Tweets',
+                        data: {{analysisvalues_array | tojson}},
+                                backgroundColor: [
+                                    'rgba(255, 99, 132, 0.2)',
+                                    'rgba(54, 162, 235, 0.2)',
+                                    'rgba(255, 206, 86, 0.2)'
+                                ],
+                                borderColor: [
+                                        'rgba(255,99,132,1)',
+                                        'rgba(54, 162, 235, 1)',
+                                        'rgba(255, 206, 86, 1)'
+                                ],
+                                borderWidth: 1
+                }]
+        },
+        options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                        beginAtZero:true
+                        }
+                }]
+
+                }
+        }
+   });
+   var src_data = [];
+   var src_values = [];
+   setInterval(function(){
+        $.getJSON('/refreshData', {
+        }, function(data) {
+                src_data = data.sLabel;
+                src_values = data.sData;
+        });
+        mydata.data.analysisdata_array = src_data;
+        mydata.data.datasets[0].data = src_values;
+        mydata.update();
+   },3000);
+</script>
+        </body>
+</html>
+
+
+
